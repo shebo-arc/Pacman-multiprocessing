@@ -1,4 +1,3 @@
-import pygame
 from run import GameController
 from constants import *
 import pygame
