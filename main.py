@@ -79,3 +79,7 @@ while True:
 
 # Close OpenCV windows
 cv2.destroyAllWindows()
+
+'''
+theres a hundred and four days of summer vacation 
+'''
